@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Mechatronics**
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vasettha)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vasettha/)
 - 😄 Pronouns: He/Him
 
 ### Github Statistic
